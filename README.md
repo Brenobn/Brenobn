@@ -1,7 +1,7 @@
-#### Hi there, I'am Breno Leonardo 👋
+#### Hi there, I'm Breno Leonardo 👋
 
 #### About
-I'am a web developer. And, I'am studying web development at [Rocketseat](https://www.rocketseat.com.br/).
+I'm a web developer. And, I'am studying web development at [Rocketseat](https://www.rocketseat.com.br/).
 
 #### Current stack
 - Main language: `JavaScript`
