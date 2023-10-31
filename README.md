@@ -10,7 +10,7 @@ I'm a web developer, currently studying at [Rocketseat](https://www.rocketseat.c
 - Layout Design: `Figma`
 - Version code control: `Git & Github`
 - Tools: `VsCode`, `Markdown`
-- I'am mostly active with the `Rocketseat Community`
+- I'am mostly active at the `Rocketseat Community`
 
 #### Contacts
 
