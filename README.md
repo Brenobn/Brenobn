@@ -5,8 +5,8 @@ I'm a web developer, currently studying at [Rocketseat](https://www.rocketseat.c
 
 #### Current stack
 - Main language: `JavaScript`
-- Backend: `NodeJs`
-- Frontend: `HTML5`, `CSS3`, `JavaScript`
+- Backend: `NodeJs`, `SQL`, `Knex`
+- Frontend: `Ract`, `Styled-Components`, `Tailwind`, `JavaScript`, `TypeScript`
 - Layout Design: `Figma`
 - Version code control: `Git & Github`
 - Tools: `VsCode`, `Markdown`
